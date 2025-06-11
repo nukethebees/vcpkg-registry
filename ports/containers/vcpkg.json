@@ -1,8 +1,8 @@
 {
   "name": "containers",
   "version": "0.2",
-  "license": "MIT",
   "homepage": "https://github.com/nukethebees/containers",
+  "license": "MIT",
   "dependencies": [
     "benchmark",
     "gtest",
