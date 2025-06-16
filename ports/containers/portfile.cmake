@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO nukethebees/containers
-    REF v0.2.1
-    SHA512 a4e488d8d4cd0e8ce12cd7d81b0125e868f28475f23b90fb59630f55a28ac6e6ea39739161cdb5b77e925837be44d59369c3c3492aea298d0d80b4f033b29da0
+    REF 8df8654ff84dc1942ff6a0d412aa5cdf1a0b8de5
+    SHA512 0
     HEAD_REF master
 )
 
