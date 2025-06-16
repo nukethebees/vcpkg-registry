@@ -1,7 +1,8 @@
 {
   "default": {
     "containers": {
-      "baseline": "0.3.0"
+      "baseline": "0.3.0",
+      "port-version": 1
     }
   }
 }
