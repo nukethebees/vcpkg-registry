@@ -1,0 +1,17 @@
+{
+  "name": "ml-cpp-utils",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nukethebees/cpp_utils",
+  "license": "GPL-3.0",
+  "dependencies": [
+    "gtest",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
