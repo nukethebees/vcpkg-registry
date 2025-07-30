@@ -1,0 +1,7 @@
+{
+  "name": "reaper-sdk",
+  "version": "1.0.0",
+  "description": "REAPER plugin SDK",
+  "homepage": "https://www.reaper.fm/",
+  "dependencies": []
+}
