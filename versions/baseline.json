@@ -7,6 +7,10 @@
     "ml-cpp-utils": {
       "baseline": "0.2.0",
       "port-version": 0
+    },
+    "reaper-sdk": {
+      "baseline": "1.0.0",
+      "port-version": 0
     }
   }
 }
