@@ -1,6 +1,6 @@
 {
   "name": "ml-cpp-utils",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "homepage": "https://github.com/nukethebees/cpp_utils",
   "license": "GPL-3.0",
   "dependencies": [
